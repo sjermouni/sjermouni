@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sjermouni
-- 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Data Science at the moment
+- 🌱 I’m currently learning Python
 
 <!---
 sjermouni/sjermouni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
